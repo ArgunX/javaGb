@@ -1,0 +1,9 @@
+1  cat > Pets.txt
+    2  cat > Pack_animals.txt
+    3  cat Pets.txt Pack_animals.txt > HumanFriends.txt
+    4  cat HumanFriends.txt
+    5  ls
+    6  mkdir testGB
+    7  mv HumanFriends.txt testGB/
+
+
