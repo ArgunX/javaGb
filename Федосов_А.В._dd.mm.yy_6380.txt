@@ -7,3 +7,8 @@
     7  mv HumanFriends.txt testGB/
 
 
+    1  sudo apt install mysql-server
+    2  wget -c https://dev.mysql.com/get/mysql-apt-config_0.8.32-1_all.deb
+    3  sudo dpkg -i mysql-apt-config_0.8.32-1_all.deb
+    4  sudo dpkg -r mysql-server-8.0
+    5  history
